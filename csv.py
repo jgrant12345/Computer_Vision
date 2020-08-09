@@ -55,7 +55,7 @@ for element in os.listdir(PATH):
 
 
      
-    #     #add pixel values to an excel spreadsheet
+          #add pixel values to an excel spreadsheet
         csv_array = []
         csv_array.append(label)
         for index1 in range(len(array)): #assuming picture is the same length and width
