@@ -15,6 +15,8 @@ WidthofPicture = 60
 HeightOfPicture = 60
 
 #Name of Path for folder Here
+#Don't put a forward slash as the last character in the Path Name
+#Example: Desktop/ComputerVision
 PATH = 'NameOfPathGoesHere'
 
 
